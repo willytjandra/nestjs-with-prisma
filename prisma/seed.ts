@@ -23,7 +23,7 @@ async function main() {
       body: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam minima, saepe blanditiis expedita esse voluptatibus...',
       description:
         'Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam minima, saepe blanditiis expedita esse voluptatibus. Nemo, architecto? Odio magni sapiente, omnis quas quia sit. Nostrum vel animi eum earum adipisci!',
-      published: false,
+      published: true,
     },
   });
 
